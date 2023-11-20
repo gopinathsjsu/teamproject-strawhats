@@ -1,1 +1,1 @@
-# MovieTheater Club application
+# MovieTheater Club Application
