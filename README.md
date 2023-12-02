@@ -53,16 +53,16 @@ REACTJS, TAILWIND CSS, NODEJS, EXPRESSJS, MONGODB
 - **Communication** <br> Our team had good communication throughout the project. We brainstormed the idea of the project initially and divided the tasks among ourselves. We had frequent sprint meetings where we used to dicuss the issues faced by team members and retrospected what did not go well.
 
 ## Architecture Diagram
-https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/Architecture%20diagram.png
+![Architecture diagram.png](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/Architecture%20diagram.png)
 
 ## Deployment Diagram
-https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/Deployment%20diagram.png
+![Component Diagram.jpeg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/Deployment%20diagram.png)
 
 ## UML Diagram
-https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/UML%20diagram.png
+![Deployment diagram.png](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/UML%20diagram.png)
 
 ## Component Diagram
-https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/Component%20Diagram.jpeg
+![Component Diagram.jpeg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/Component%20Diagram.jpeg)
 
 # Feature Set
 
