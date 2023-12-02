@@ -100,7 +100,6 @@ Configure discount prices for shows before 6pm and for Tuesday shows
 ![Choosing a seat.jpg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Web%20UI%20Raw%20Designs/Choosing%20a%20seat.jpg)
 ![Adding page.jpg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Web%20UI%20Raw%20Designs/Adding%20page.jpg)
 ![Home Page UI.jpg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Web%20UI%20Raw%20Designs/Home%20Page%20UI.jpg)
-![Modify users UI.jpg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Web%20UI%20Raw%20Designs/Modify%20users%20UI.jpg)
 ![Movie theatre and showtime.jpg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Web%20UI%20Raw%20Designs/Movie%20theatre%20and%20showtime.jpg)
 ![Regsiter page web UI.jpg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Web%20UI%20Raw%20Designs/Regsiter%20page%20web%20UI.jpg)
 ![Rewards page.jpg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Web%20UI%20Raw%20Designs/Rewards%20page.jpg)
