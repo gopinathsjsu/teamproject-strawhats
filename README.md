@@ -61,3 +61,32 @@ https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/Deploymen
 ## UML Diagram
 https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/UML%20diagram.png
 
+# Feature Set
+
+### For all users:
+View Home/Landing page showing information about the Theaters, locations, current movie schedules, and upcoming movies,
+View membership option - Regular and Premium
+View Registration/Signup page - viewable by all users
+Book tickets for a movie
+Each booking will include an online service fee ($1.50 per ticket)
+
+
+### For Enrolled and logged in Members:
+View members page - showing movie tickets purchased, rewards points accumulated
+Regular membership is free
+Premium membership is for an annual fee of 15 dollars
+View list of Movies watched in the past 30 days
+Book multiple seats (upto 8) for a movie show - using rewards points or payment method (pre-selected) - seats selected by the user
+Cancel previous tickets before showtime and request refund
+Accumulate rewards points (all members) 1 point per dollar
+Premium members get online service fee waived for any booking
+
+
+### Theater employees :
+Add/update/remove movies/showtimes/theater assignment in the schedule
+Configure seating capacity for each theater in a multiplex
+View analytics dashboard showing Theater occupancy for the last 30/60/90 days
+Summarized by location
+Summarized by movies
+Configure discount prices for shows before 6pm and for Tuesday shows
+
