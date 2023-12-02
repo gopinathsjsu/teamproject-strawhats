@@ -21,7 +21,7 @@
 | Sohan Leburu | Front end and Backend API implementation - showtimeController logic, worked on showtime route module,Developed Auth Context, Designed and worked on Schedule, Search, User front-end client webpages, developed SelectedMovie, Seat, ScheduleTable, Loading React Components, Black box Testing |
 
 ## Tech stack
-REACTJS, TAILWIND CSS, NODEJS, EXPRESSJS, MONGODB
+REACTJS, TAILWIND CSS, VITE, NODEJS, EXPRESSJS, MONGODB
 
 ## Design Choices:
 
@@ -111,5 +111,11 @@ Configure discount prices for shows before 6pm and for Tuesday shows
 
 1. git clone [repo](https://github.com/gopinathsjsu/team-project-ysmp.git)
 2. Install dependencies for both frontend and backend npm install `npm install`
-3. Run backend - `npm run Devstart`
+3. Create .env file at /server :
+`PORT=8080
+DATABASE=<your MongoDB connection string URI>
+JWT_SECRET=<any random JWT secret>
+JWT_EXPIRE=30d
+JWT_COOKIE_EXPIRE=30`
+4. Run backend - `npm run dev`
    Run frontend - `npm run start`
