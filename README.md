@@ -110,12 +110,14 @@ Configure discount prices for shows before 6pm and for Tuesday shows
 ## Steps to run the application
 
 1. git clone [repo](https://github.com/gopinathsjsu/team-project-ysmp.git)
-2. Install dependencies for both frontend and backend npm install `npm install`
+2. Install dependencies for both frontend and backend npm install ```npm install```
 3. Create .env file at /server :
-`PORT=8080
+```
+PORT=8080
 DATABASE=<your MongoDB connection string URI>
 JWT_SECRET=<any random JWT secret>
 JWT_EXPIRE=30d
-JWT_COOKIE_EXPIRE=30`
-4. Run backend - `npm run dev`
-   Run frontend - `npm run start`
+JWT_COOKIE_EXPIRE=30
+```
+4. Run backend - ```npm run dev```
+   Run frontend - ```npm run start```
