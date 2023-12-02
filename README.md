@@ -61,6 +61,9 @@ https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/Deploymen
 ## UML Diagram
 https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/UML%20diagram.png
 
+## Component Diagram
+https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/Component%20Diagram.jpeg
+
 # Feature Set
 
 ### For all users:
@@ -89,4 +92,7 @@ View analytics dashboard showing Theater occupancy for the last 30/60/90 days
 Summarized by location
 Summarized by movies
 Configure discount prices for shows before 6pm and for Tuesday shows
+
+## UI Wireframes
+![Adding page.jpg](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Web%20UI%20Raw%20Designs/Adding%20page.jpg)
 
