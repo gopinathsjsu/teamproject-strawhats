@@ -15,10 +15,10 @@
 
 | TEAM | Contribution |
 | --- | --- |
-| Shiva Ram Reddy Bethi |  Front end and Backend API implementation - Designed and configured MongoDB models, cinemaController logic, worked on cinema route module,worked on Admin Route for client logic, Designed and worked on Home, Register, Purchase front-end client webpages, developed Navbar, TheatreListByMovie, CinemaLists, DateSelector React Components, loadbalancer |
-| Jatin Bhandari | Front end and Backend API implementation -  authController & theaterController logic, worked on auth route & theater module, Designed and worked on Tickets, Analytics, Login front-end client webpages, developed MovieLists, NowShowing, ShowtimeDetails, Showtimes React Components, AWS deployment and Autoscaling AWS Deployment EC2 instances |
-| Charles Fathima Bhumpala | Front end and Backend API implementation - movieController logic, worked on movie route module, Developed Location Context, Designed and worked on Movie, Showtime, Cinema front-end client webpages, developed Theater, TheaterListsByCinema, TheaterShort, UpcomingMovies React Components |
-| Sohan Leburu | Front end and Backend API implementation - showtimeController logic, worked on showtime route module,Developed Auth Context, Designed and worked on Schedule, Search, User front-end client webpages, developed SelectedMovie, Seat, ScheduleTable, Loading React Components, Black box Testing |
+| Shiva Ram Reddy Bethi |  Scrum Master, Front end and Backend API implementation - Designed and configured MongoDB models, cinemaController logic, worked on cinema route module,worked on Admin Route for client logic, Designed and worked on Home, Register, Purchase front-end client webpages, developed Navbar, TheatreListByMovie, CinemaLists, DateSelector React Components, loadbalancer |
+| Jatin Bhandari | Front end and Backend API implementation -  authController & theaterController logic, worked on auth route & theater module, Designed and worked on Tickets, Analytics, Login front-end client webpages, developed MovieLists, NowShowing, ShowtimeDetails, Showtimes React Components, AWS deployment and Autoscaling in EC2 instances |
+| Charles Fathima Bhumpala | Front end and Backend API implementation - movieController logic, worked on movie route module, Developed Location Context, Designed and worked on Movie, Showtime, Cinema front-end client webpages, developed Theater, TheaterListsByCinema, UpcomingMovies React Components |
+| Sohan Leburu | Front end and Backend API implementation - Configured showtime component for admin users, worked on showtime route module, Developed Auth Context, Designed and worked on User front-end client webpages, developed SelectedMovie, Seat configurations, ScheduleTable, Loading React Components, Black box Testing |
 
 ## Tech stack
 REACTJS, TAILWIND CSS, VITE, NODEJS, EXPRESSJS, MONGODB
@@ -27,30 +27,30 @@ REACTJS, TAILWIND CSS, VITE, NODEJS, EXPRESSJS, MONGODB
 
 ### Why NoSQL in a database?
 
-- We chose NoSQL over a relational architecture because of its own access languages for interpreting data being stored.
-- It offers a developer-centric database, which simplifies database design and access to application programming interfaces.
-- Before employing databases, developers do not need to be concerned about their internal workings.
-- NoSQL databases allow you to work on what you need rather than pushing a schema on the database.
-
+- We opted for NoSQL instead of a relational framework because it uses unique languages for processing the stored data.
+- This provides a database focused on developers, making the design and API access more straightforward.
+- Developers can use databases without worrying about their underlying mechanics.
+- NoSQL databases enable focusing on specific needs without imposing a fixed schema on the database.
+  
 ### Why is MongoDB used?
 
-- MongoDB allows different data hierarchies. - Secondary indexes provide for flexibility in datamodel.
-- Because Mongo DB is schemaless, we do not define the schema at the outset.
+- MongoDB supports varied data structures due to its secondary indexing, enhancing flexibility in data modeling.
+- The schema-less nature of MongoDB means that defining a schema from the beginning is not necessary.
 
 ### Why MERN Stack - Performance and User Interface Rendering
 
-- React JS is the best when it comes to UI layer abstraction. Because React is only a library, you may build the application and structure the code anyway you like. As a consequence, in terms of UI rendering and performance, it exceeds Angular.
-- Cost-effective
-  Because MERN Stack uses only one language throughout, Javascript, a firm will benefit from hiring only Javascript experts rather than specialists for each technology. This choice will save you both time and money.
-- Open Source and Free
-  MERN employs only open-source technology. This feature allows a developer to use open sources to find answers to challenges that may emerge during development.
+- React JS excels in abstracting the UI layer. Being just a library, React allows for flexible application construction and code structuring, leading to superior UI rendering and            performance compared to Angular.
+- Cost Efficiency
+  The MERN Stack's reliance on JavaScript for all layers means a company can save time and money by hiring JavaScript experts instead of specialists for each distinct technology.
+- Open Source and Cost-Free
+  MERN Stack's exclusive use of open-source technologies enables developers to leverage community resources for solutions to development challenges.
 
 ## XP Core Values Maintained by Team
-- **Simplicity** <br> We made sure to include just the most straightforward solutions that worked. In order for everyone on the team to understand the code and make changes in the future, if necessary, we made it modular and reusable. As much as possible, we have reduced code smells and included pertinent comments to our code. Our code base is straightforward, making maintenance simple.
+- **Simplicity** <br> Our approach prioritized implementing the simplest and most effective solutions. We designed the code to be modular and reusable, ensuring that it is easily understandable and modifiable by any team member in the future. Efforts were made to minimize code smells, and we included relevant comments for clarity. This approach has resulted in a straightforward code base that is easy to maintain.
 
-- **Feedback** <br> We were able to learn, adjust to the adjustments, and prevent repeating mistakes by providing and receiving regular feedback. This encouraged us to work more effectively. We made pull requests and submitted our changes to a branch during the development stage. We pushed the changes to the master branch after another team member gave the code their seal of approval. We ensured that any modifications to the master branch of the code were always stable and did not affect the code of the other team members. We were able to unify our objectives and duties thanks to ongoing feedback.
+- **Feedback** <br> By consistently giving and receiving feedback, we were able to learn, adapt to changes, and avoid repeating errors, enhancing our efficiency. Throughout the development process, we created pull requests and committed our changes to a branch. These changes were only merged into the master branch after receiving approval from another team member. This practice ensured that any updates to the master branch were stable and did not negatively impact other team members' work. Continuous feedback played a crucial role in aligning our goals and responsibilities.
 
-- **Communication** <br> Our team had good communication throughout the project. We brainstormed the idea of the project initially and divided the tasks among ourselves. We had frequent sprint meetings where we used to dicuss the issues faced by team members and retrospected what did not go well.
+- **Communication** <br> Effective communication was a cornerstone of our team's approach throughout the project. Initially, we collaboratively brainstormed the project's concept and distributed tasks among ourselves. We held regular sprint meetings where team members discussed challenges they encountered and conducted retrospectives on aspects that didn't go as planned. This open communication ensured a smooth project workflow and team synergy.
 
 ## Architecture Diagram
 ![Architecture diagram.png](https://github.com/gopinathsjsu/teamproject-strawhats/blob/main/Images/Architecture%20diagram.png)
